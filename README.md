@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @gabaeliz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1>Elizabeth García-Baeza</h1>
+<em><strong>Backend in JavaScript and biologist</strong></em>
 
-<!---
-gabaeliz/gabaeliz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[Email](mailto:elizabethg.eg12@gmail.com) / [GitHub](https://github.com/gabaeliz/) / [Twitter](https://twitter.com/gracescrap/) 
+
+<h2>💬 Languages</h2> 
+**Spanish**: Native <br>
+**English**: C1<br><br>
