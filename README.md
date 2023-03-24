@@ -5,8 +5,8 @@
 [Email](mailto:elizabethg.eg12@gmail.com) / [GitHub](https://github.com/gabaeliz/) / [Twitter](https://twitter.com/gracescrap/) 
 
 <h2>💬 Languages</h2> 
-Spanish: Native <br>
-English: C1<br><br>
+Spanish: Advanced <br>
+English: B2 <br><br>
 
 ## 👩🏼‍🎓 Education
 
